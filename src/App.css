@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,101 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+nav li
+{
+  margin-left: 15px;
+  display: inline;
+} */
+
+.btn-success
+{
+  margin-left: 2px;
+}
+
+#text-a
+{
+  background-color: #ededf0;
+}
+
+.sel
+{
+  background-color: #ededf0;
+}
+
+.navvy
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-1
+{
+  background-color: #99dd7f;
+  color: #ededed;
+  border: none;
+  transition: background-color 200ms linear;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.btn-1:hover
+{
+  background-color: #99dd7fcc;
+  color: #ededed;
+  border: none;
+}
+
+.btn-2
+{
+  background-color: #ff907f;
+  color: #ededed;
+  border: none;
+  transition: background-color 200ms linear;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.btn-2:hover
+{
+  background-color: #ff827fcc;
+  color: #ededed;
+  border: none;
+}
+
+
+.btn-3
+{
+  background-color: #77a2af;
+  color: #ededed;
+  border: none;
+  transition: background-color 200ms linear;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.btn-3:hover
+{
+  background-color: #77a2afcc;
+  color: #ededed;
+  border: none;
+}
+
+
+.btn-4
+{
+  background-color: #dacf40;
+  color: #ededed;
+  border: none;
+  transition: background-color 200ms linear;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.btn-4:hover
+{
+  background-color: #dacf40cc;
+  color: #ededed;
+  border: none;
 }
