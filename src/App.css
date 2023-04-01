@@ -67,7 +67,7 @@ nav li
 .btn-1
 {
   background-color: #99dd7f;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
   transition: background-color 200ms linear;
   padding: 0.5rem 1rem;
@@ -77,14 +77,14 @@ nav li
 .btn-1:hover
 {
   background-color: #99dd7fcc;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
 }
 
 .btn-2
 {
   background-color: #ff907f;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
   transition: background-color 200ms linear;
   padding: 0.5rem 1rem;
@@ -94,7 +94,7 @@ nav li
 .btn-2:hover
 {
   background-color: #ff827fcc;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
 }
 
@@ -102,7 +102,7 @@ nav li
 .btn-3
 {
   background-color: #77a2af;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
   transition: background-color 200ms linear;
   padding: 0.5rem 1rem;
@@ -111,8 +111,8 @@ nav li
 
 .btn-3:hover
 {
-  background-color: #77a2afcc;
-  color: #ededed;
+  background-color: #ffffffee;
+  color: #ffffffee;
   border: none;
 }
 
@@ -120,7 +120,7 @@ nav li
 .btn-4
 {
   background-color: #dacf40;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
   transition: background-color 200ms linear;
   padding: 0.5rem 1rem;
@@ -130,6 +130,6 @@ nav li
 .btn-4:hover
 {
   background-color: #dacf40cc;
-  color: #ededed;
+  color: #ffffffee;
   border: none;
 }
